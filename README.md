@@ -7,7 +7,7 @@ I enjoy building clean, responsive websites and working with data to uncover ins
 ---
 
 ##  WHAT I DO
--  Website Development (HTML, CSS, JavaScript, React, Next.js, Vue, TailwindCSS, TypeScript, MongoDB)
+-  Website Development (HTML, CSS, JavaScript, React, Next.js, Vite, Vue, TailwindCSS, TypeScript, MongoDB)
 -  Data Analysis (MySQL, data cleaning, data insights)
 -  Building real-world projects to improve my skills
 
